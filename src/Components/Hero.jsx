@@ -1,6 +1,7 @@
 import React from "react";
 import { motion } from "framer-motion";
 import { FaLinkedin, FaGithub, FaInstagram } from "react-icons/fa";
+import profilePic from "../assets/kc.png";
 
 const Hero = () => {
   return (
@@ -68,7 +69,7 @@ I am a dedicated web developer passionate about creating innovative, user-focuse
         transition={{ duration: 1 }}
       >
         <img
-          src="/src/assets/kc.png"
+          src={profilePic}
           alt="Profile"
           className="w-72 h-72 md:w-80 md:h-80 object-cover rounded-full border-4 border-[#00eaff] shadow-[0_0_25px_#00eaff]"
         />
