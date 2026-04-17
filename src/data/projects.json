@@ -1,0 +1,34 @@
+[{
+        "id": 1,
+        "title": "Digital Mental Health System",
+        "description": "Built a MERN-based application with authentication, AI chatbot, and emotion detection to improve user interaction.",
+        "githubUrl": "https://github.com/Kavita2005/MentalHealth",
+        "techStack": ["MongoDB", "Express", "React", "Node", "Python", "OpenCV"],
+        "thumbnail": "mental-health"
+    },
+    {
+        "id": 2,
+        "title": "Online Voting System",
+        "description": "Developed a secure voting platform with role-based access and duplicate vote prevention.",
+        "githubUrl": "https://github.com/Kavita2005/Online-voting-system-deploy",
+        "techStack": ["PHP", "MySQL", "JavaScript", "HTML", "CSS"],
+        "thumbnail": "voting"
+    },
+    {
+        "id": 3,
+        "title": "Driver Drowsiness Detection",
+        "description": "Created a real-time fatigue detection system using CNN and OpenCV with alert mechanism.",
+        "githubUrl": "https://github.com/Kavita2005/Driver-Drowsiness-Detection",
+        "publicationUrl": "https://drive.google.com/file/d/1iKXX0khw5XhXVbaGmJYYkUIrlB0au02K/view",
+        "techStack": ["Python", "OpenCV", "CNN"],
+        "thumbnail": "drowsiness"
+    },
+    {
+        "id": 4,
+        "title": "Code Club AGPIT Platform",
+        "description": "Built a MERN-based platform to manage events and improve student engagement.",
+        "liveUrl": "https://codeclubagpit.vercel.app/",
+        "techStack": ["React", "Node", "TypeScript", "REST API"],
+        "thumbnail": "codeclub"
+    }
+]

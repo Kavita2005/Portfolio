@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "type": "ENGINEERING",
+    "degree": "B.Tech — Computer Engineering",
+    "institution": "A. G. Patil Institute of Technology, Solapur",
+    "university": "Dr. Babasaheb Ambedkar Technological University (DBATU), Lonere",
+    "period": "2023 – 2026",
+    "note": null,
+    "description": "Final-year student specializing in full-stack development and software engineering. Active as Code Club Member, Hackathon Coordinator, and Placement Committee Member.",
+    "score": "CGPA — 8.04 / 10",
+    "scoreColor": "blue"
+  },
+  {
+    "id": 2,
+    "type": "DIPLOMA",
+    "degree": "Diploma — Information Technology",
+    "institution": "Government Polytechnic, Solapur",
+    "university": "Maharashtra State Board of Technical Education (MSBTE), Mumbai",
+    "period": "2020 – 2023",
+    "note": "Completed after 10th Standard",
+    "description": "Built a strong foundation in programming, networking, and databases. Won First Prize at the Industrial Training Project Competition 2023.",
+    "score": "83.63%",
+    "scoreColor": "blue"
+  },
+  {
+    "id": 3,
+    "type": "SCHOOL",
+    "degree": "SSC — 10th Standard",
+    "institution": "Netaji Subhashchandra Bose High School, Solapur",
+    "university": "Maharashtra State Board of Secondary & Higher Secondary Education (SSC Board), Pune",
+    "period": "2019 – 2020",
+    "note": null,
+    "description": "Completed 10th standard with strong academic performance. Chose Diploma in IT to begin a focused journey into technology.",
+    "score": "87.00%",
+    "scoreColor": "blue"
+  }
+]

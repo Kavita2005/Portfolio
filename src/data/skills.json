@@ -1,0 +1,31 @@
+[{
+        "id": 1,
+        "category": "Programming Languages",
+        "items": ["Java", "JavaScript", "TypeScript", "Python"]
+    },
+    {
+        "id": 2,
+        "category": "Web Technologies",
+        "items": ["React.js", "Node.js", "Express.js", "REST APIs", "HTML", "CSS", "Tailwind CSS", "Bootstrap"]
+    },
+    {
+        "id": 3,
+        "category": "Databases",
+        "items": ["MySQL", "PostgreSQL", "MongoDB"]
+    },
+    {
+        "id": 4,
+        "category": "Core Computer Science",
+        "items": ["Data Structures & Algorithms", "Operating Systems", "Computer Networks", "DBMS", "SDLC"]
+    },
+    {
+        "id": 5,
+        "category": "Tools & Platforms",
+        "items": ["Git", "GitHub", "Postman", "Firebase"]
+    },
+    {
+        "id": 6,
+        "category": "Computer Vision",
+        "items": ["OpenCV", "CNN", "Emotion Detection", "Real-time Systems"]
+    }
+]

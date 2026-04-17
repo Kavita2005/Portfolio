@@ -1,0 +1,61 @@
+[{
+        "id": 1,
+        "icon": "🥇",
+        "title": "First Prize — Avishkar 2025",
+        "description": "Project Competition at A. G. Patil Institute of Technology",
+        "year": "2025",
+        "certificateUrl": "https://drive.google.com/file/d/1VImH4tvZ987Jl7vxbqiDbsnAih7zvBWj/view",
+        "certificateLabel": "View Certificate",
+        "type": "award"
+    },
+    {
+        "id": 2,
+        "icon": "📄",
+        "title": "Research Paper Published",
+        "description": "IRJMET — Driver Drowsiness Detection System using AI & OpenCV",
+        "year": "May – Jun 2025",
+        "certificateUrl": "https://drive.google.com/file/d/1iKXX0khw5XhXVbaGmJYYkUIrlB0au02K/view?usp=drivesdk",
+        "certificateLabel": "View Paper",
+        "type": "publication"
+    },
+    {
+        "id": 3,
+        "icon": "☕",
+        "title": "Java Programming — Udemy",
+        "description": "Certification in Java Programming",
+        "year": "2026",
+        "certificateUrl": "https://www.udemy.com/certificate/UC-226c7ffa-7c64-4bc7-9fa0-edf52abcb9f6/",
+        "certificateLabel": "View Certificate",
+        "type": "certification"
+    },
+    {
+        "id": 4,
+        "icon": "🥇",
+        "title": "First Prize — Industrial Training",
+        "description": "Secured 1st place in project competition during industrial training at DK Techno, Government Polytechnic, Solapur.",
+        "year": "2023",
+        "certificateUrl": "https://drive.google.com/file/d/1EMDd5x9QWQ05HydHYDQFxcnkJPxSCjdG/view?pli=1",
+        "certificateLabel": "View Certificate",
+        "type": "award"
+    },
+    {
+        "id": 5,
+        "icon": "🤝",
+        "title": "CodeClub Committee Member",
+        "description": "Organized coding events and assisted in campus recruitment activities through CodeClub.",
+        "year": "2025",
+        "certificateUrl": "https://drive.google.com/file/d/1JQCBc_F3ajrPnZF1vIsw-j_wipNM0oPc/view",
+        "certificateLabel": "View Certificate",
+        "type": "teamwork"
+    },
+    {
+        "id": 6,
+        "icon": "⚡",
+        "title": "Hackathon Coordinator",
+        "description": "Organized coding events and coordinated technical teams at AGPIT",
+        "year": "2025",
+        "certificateUrl": null,
+        "type": "leadership"
+    }
+
+]
