@@ -6,12 +6,14 @@ import mentalHealth from '../assets/mentalhealth.png'
 import voting from '../assets/online.png'
 import drowsiness from '../assets/dd.jpeg'
 import codeclub from '../assets/cc.jpg'
+import job from '../assets/job.png'
 
 const images = {
   'mental-health': mentalHealth,
   voting,
   drowsiness,
-  codeclub
+  codeclub,
+  job
 }
 
 export default function Projects() {

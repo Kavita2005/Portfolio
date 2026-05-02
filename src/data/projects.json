@@ -1,5 +1,14 @@
 [{
         "id": 1,
+        "title": "HireHub - Job Board",
+        "description": "A full-stack job board platform where employers can post and manage job listings while job seekers can search, filter, save, and apply for opportunities with role-based authentication.",
+        "githubUrl": "https://github.com/Kavita2005/Hirehub-jobboard",
+        "liveUrl": "https://hirehub-jobboard-sq3o.vercel.app/",
+        "techStack": ["React", "Node.js", "Express", "MongoDB", "JWT"],
+        "thumbnail": "job"
+    },
+    {
+        "id": 2,
         "title": "Digital Mental Health System",
         "description": "Built a MERN-based application with authentication, AI chatbot, and emotion detection to improve user interaction.",
         "githubUrl": "https://github.com/Kavita2005/MentalHealth",
@@ -7,7 +16,7 @@
         "thumbnail": "mental-health"
     },
     {
-        "id": 2,
+        "id": 3,
         "title": "Online Voting System",
         "description": "Developed a secure voting platform with role-based access and duplicate vote prevention.",
         "githubUrl": "https://github.com/Kavita2005/Online-voting-system-deploy",
@@ -15,7 +24,7 @@
         "thumbnail": "voting"
     },
     {
-        "id": 3,
+        "id": 4,
         "title": "Driver Drowsiness Detection",
         "description": "Created a real-time fatigue detection system using CNN and OpenCV with alert mechanism.",
         "githubUrl": "https://github.com/Kavita2005/Driver-Drowsiness-Detection",
@@ -24,7 +33,7 @@
         "thumbnail": "drowsiness"
     },
     {
-        "id": 4,
+        "id": 5,
         "title": "Code Club AGPIT Platform",
         "description": "Built a MERN-based platform to manage events and improve student engagement.",
         "liveUrl": "https://codeclubagpit.vercel.app/",
